@@ -1,0 +1,5 @@
+pip install geopy folium selenium
+
+pip install selenium
+
+pip install geopy folium
